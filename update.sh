@@ -12,7 +12,6 @@
 # GNU General Public License for more details.
 repository=tango2iconthemes
 update="Update"
-figlet $repository
 echo "Set Remote $team..."
 git remote set-url origin git@github.com:dindinG41TR3/$repository.git
 echo "Berhasil..."
