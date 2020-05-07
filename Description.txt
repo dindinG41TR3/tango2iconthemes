@@ -1,0 +1,62 @@
+=================================================
+Author : Dindin Hernawan
+E-mail : dindin_hernawan@yahoo.com
+Made With : Inkscape
+
+Like My Work ? give me coffe please :)
+
+Donation
+Paypal : dindin_hernawan@yahoo.com
+
+Licenced : GNU GPL 3.0
+=================================================
+
+
+Specification
+Icons : Linux Mint (Cinnamons, Mate, Debian Cinnamon, XFCE)
+Xubuntu, Lubuntu, Ubuntu, Debian (Cinnamon, GNOME), Ubuntu GNOME
+Icons Based : tango-icon-theme-0.8.90, tangoish-kde-0.4
+Icons Size : 16 22 24 32 48 96 128 256 scalable
+
+
+Original Author :
+(tango-icon-theme-0.8.90)
+Ulisse Perusin : uli.peru@gmail.com
+Steven Garrity : sgarrity@silverorange.com
+Lapo Calamandrei : calamandrei@gmail.com
+Ryan Collier : rcollier@novell.com
+Rodney Dawes : dobey@novell.com
+Andreas Nilsson : nisses.mail@home.se
+Tuomas Kuosmanen : tigert@tigert.com
+Garrett LeSage : garrett@novell.com
+Jakub Steiner : jimmac@novell.com
+
+(tangoish-kde-0.4)
+Shirakawasuna@gmail.com
+=============================================================================
+
+im fans of tango and wan make tango is back with compatible distro modern of the years
+im building from source ands finds more icons from web based tango....
+
+i'm made this icons from fans...
+its many icons new with principal Tango design :)
+and support all distro linux... (UBuntu,Lubuntu, Debian Linux MInt and other)
+===============================================================================
+
+I hope give me coffe :)
+Donation
+Paypal : dindin_hernawan@yahoo.com
+
+If find Bugs :
+send e-mail or comment bellow :
+How to install Icons Tango2 : dindin_hernawan@yahoo.com
+
+HOW INSTALL
+---------------------------------------------------
+=>Extract Tango2-2017.1.tar.gz
+=>README File File For Instructure
+
+Manual Install
+Move Tango2 as Root User to /usr/share/icons/
+
+I hope enjoy, thanks 
