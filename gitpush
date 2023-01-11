@@ -13,7 +13,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=tango2iconthemes
-version="Upload Tango2-2017.1"
+version="add verbose script install"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:dindinG41TR3/$package.git
